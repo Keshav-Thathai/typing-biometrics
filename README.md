@@ -1,4 +1,4 @@
-# ⌨️ Keystroke Auth - Prototype (Day 1)
+# ⌨️ Keystroke Auth - Prototype 
 
 This is my first project in Biometrics - Day 1 Prototype.
 
